@@ -2,5 +2,4 @@
 plugins {
     alias(libs.plugins.android.application) apply false
     //noinspection NewerVersionAvailable
-    id("org.jetbrains.kotlin.android") version "1.7.0" apply false
 }
